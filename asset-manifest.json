@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/workout/static/css/main.afbac168.chunk.css",
+    "main.js": "/workout/static/js/main.b657909e.chunk.js",
+    "main.js.map": "/workout/static/js/main.b657909e.chunk.js.map",
+    "runtime-main.js": "/workout/static/js/runtime-main.e5bacfdb.js",
+    "runtime-main.js.map": "/workout/static/js/runtime-main.e5bacfdb.js.map",
+    "static/css/2.829c9cb5.chunk.css": "/workout/static/css/2.829c9cb5.chunk.css",
+    "static/js/2.915ca4f7.chunk.js": "/workout/static/js/2.915ca4f7.chunk.js",
+    "static/js/2.915ca4f7.chunk.js.map": "/workout/static/js/2.915ca4f7.chunk.js.map",
+    "index.html": "/workout/index.html",
+    "precache-manifest.e2df1cb866f574e8aca641ba67cfbefc.js": "/workout/precache-manifest.e2df1cb866f574e8aca641ba67cfbefc.js",
+    "service-worker.js": "/workout/service-worker.js",
+    "static/css/2.829c9cb5.chunk.css.map": "/workout/static/css/2.829c9cb5.chunk.css.map",
+    "static/css/main.afbac168.chunk.css.map": "/workout/static/css/main.afbac168.chunk.css.map",
+    "static/js/2.915ca4f7.chunk.js.LICENSE.txt": "/workout/static/js/2.915ca4f7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e5bacfdb.js",
+    "static/css/2.829c9cb5.chunk.css",
+    "static/js/2.915ca4f7.chunk.js",
+    "static/css/main.afbac168.chunk.css",
+    "static/js/main.b657909e.chunk.js"
+  ]
+}
